@@ -2,7 +2,7 @@
 
 Last updated: November 2025
 
-Developer: Metin Meric
+Developer: Şifreli Ders
 
 Contact Email: sifreliders@gmail.com
 
