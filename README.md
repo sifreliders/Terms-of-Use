@@ -2,7 +2,7 @@
 
 Last updated: November 2025
 
-Developer: Şifreli Ders
+Developer: Playforge Games
 
 Contact Email: sifreliders@gmail.com
 
@@ -33,7 +33,7 @@ You use the app at your own risk.
 
 **5. No Liability**
 
-In no event shall the developer (Metin Meriç) be held responsible for any damages, data loss, or productivity loss resulting from the use or inability to use Pomodoro GO.
+In no event shall the developer (Playforge Games) be held responsible for any damages, data loss, or productivity loss resulting from the use or inability to use Pomodoro GO.
 
 **6. Privacy and Data**
 
